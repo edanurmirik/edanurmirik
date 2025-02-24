@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eda Nur Mırık</h1>
+<h1 align="center">Hi, I'm Eda Nur Mırık</h1>
 <h3 align="center"> Passionate about machine learning, artificial intelligence, and EEG-based cognitive workload analysis.</h3>
 
 
